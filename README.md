@@ -68,7 +68,7 @@ f9e2b8a  init: lalalala
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-mornd-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-mornd-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TKGyMWV2)
 [![GitHub](https://img.shields.io/badge/GitHub-mornd-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
 </div>
